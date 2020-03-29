@@ -9,9 +9,7 @@ module.exports = {
         
         // Resulta no mesmo que [total], ou total[0]
         const [total] = await connection('incidents').count();
-
-        console.log(total);
-
+        
         const incidents = await connection('incidents')
             .join('ongs', 'ongs.id', '=', 'incidents.ong_id')
             .limit(5)
