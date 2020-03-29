@@ -1,4 +1,4 @@
-# Omnistack 11 - Projeto Be The Hero
+# Projeto Be The Hero - Omnistack 11
 
 ## Projeto Web ReactJS
 A parte do sistema web se destina às ONGs, para que elas possam se cadastrar, logar e inserir ou excluir novos incidentes, ficando disponível para alguem fazer uma doação. Podem também listar todos os seus casos cadastrados.
