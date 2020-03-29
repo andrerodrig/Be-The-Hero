@@ -1,6 +1,6 @@
-# Omnistack 11
+# Omnistack 11 - Projeto Be The Hero
 
-### Projeto Be The Hero
+### Páginas
 
 + [Login](https://github.com/andrerodrig/omnistack11/blob/master/screenshots/login.jpeg)
 + [Dashboard](https://github.com/andrerodrig/omnistack11/blob/master/screenshots/dashboard.jpeg)
